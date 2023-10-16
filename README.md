@@ -1,10 +1,10 @@
-### Hi there 👋
-## Allow me to introduce myself, my name is Bayu Iskandar
-## I like fashion in the IT field
-## Such as system analysis, infrastructure on networks,
-## repairing hardware, managing databases, UI/UX design,
-## I can even create software applications, desktop,
-## web and mobile applications.
+# Hi there 👋
+### Allow me to introduce myself, my name is Bayu Iskandar
+### I like fashion in the IT field
+### Such as system analysis, infrastructure on networks,
+### repairing hardware, managing databases, UI/UX design,
+### I can even create software applications, desktop,
+### web and mobile applications.
 
 Hi! I'm Mobile Application Developer, with development experience:
 - E-Commerce
